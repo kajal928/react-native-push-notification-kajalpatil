@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "799711563896",
+    "project_id": "notification-app-947ae",
+    "storage_bucket": "notification-app-947ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799711563896:android:dc01d26b0fd0ea3d255d8d",
+        "android_client_info": {
+          "package_name": "com.notificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lRHUyqPDTaJKJIDN2fpO3xs_UTU5fbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799711563896:android:de1e3927eab04f1c255d8d",
+        "android_client_info": {
+          "package_name": "com.notificationapp.k"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lRHUyqPDTaJKJIDN2fpO3xs_UTU5fbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799711563896:android:4eb0395e61748a69255d8d",
+        "android_client_info": {
+          "package_name": "com.notificationapp.kajal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lRHUyqPDTaJKJIDN2fpO3xs_UTU5fbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
